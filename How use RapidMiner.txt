@@ -1,0 +1,5 @@
+Cara Menjalankan Program RapidMiner :
+1. Install Aplikasi RapidMiner
+2. Klik File -> Import File
+3. Pilih file program (.rmp)
+4. Selesai
